@@ -6,10 +6,10 @@ var hasDocked = false;
 function preload(){
   bg= loadImage("spacebg.jpg");
   issImg = loadImage("iss.png");
-  spaceCraftImg = loadImage("spaceCraft1.png");
-  spaceCraftImg1 = loadImage("spaceCraft2.png");
-  spaceCraftImg2= loadImage("spaceCraft3.png");
-  spaceCraftImg3= loadImage("spaceCraft4.png");
+  spaceCraftImg = loadImage("spacecraft1.png");
+  spaceCraftImg1 = loadImage("spacecraft2.png");
+  spaceCraftImg2= loadImage("spacecraft3.png");
+  spaceCraftImg3= loadImage("spacecraft4.png");
 }
 function setup() {
   createCanvas(800, 500);
